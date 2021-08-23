@@ -1,4 +1,7 @@
 # YoutubeModel Design Assignment
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8866248b-2e01-4053-92a8-638859bc330e/deploy-status)](https://app.netlify.com/sites/kind-banach-6e038d/deploys)
+- See the live web app here: https://kind-banach-6e038d.netlify.app/
+
 
 ## To run the app
 ```zsh

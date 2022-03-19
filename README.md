@@ -1,8 +1,4 @@
-# YoutubeModel Design Assignment
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8866248b-2e01-4053-92a8-638859bc330e/deploy-status)](https://app.netlify.com/sites/kind-banach-6e038d/deploys)
-- See the live web app here: https://kind-banach-6e038d.netlify.app/
-
-
+# YoutubeModel Design React
 ## To run the app
 ```zsh
 npm start
@@ -21,12 +17,6 @@ npm start
 - redux : for state management
 - styled-components : JS in CSS styling
 
-
-### Assignment Requirements
-- Only live videos : NOT DONE
-- The thumbnail of each video from the results : DONE
-- The title of each video : DONE
-- Sorted from most viewers to the fewest viewers: DONE
 
 
 ### TODO
